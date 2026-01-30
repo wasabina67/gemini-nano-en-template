@@ -6,7 +6,7 @@ Gemini Nano en template
 <details>
 <summary>Demo</summary>
 
-WIP
+https://github.com/user-attachments/assets/2a36eebf-aa17-482a-b4ba-32ef7ef2f35c
 
 </details>
 
