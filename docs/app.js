@@ -1,9 +1,9 @@
-const LANGUAGE = 'ja';
+const LANGUAGE = 'en';
 const LANGUAGE_OPTIONS = {
   expectedInputs: [{ type: 'text', languages: [LANGUAGE] }],
   expectedOutputs: [{ type: 'text', languages: [LANGUAGE] }],
 };
-const SYSTEM_PROMPT = 'あなたは親切で丁寧な日本語アシスタントです。語尾に自然に「だっちゃ」と言います。';
+const SYSTEM_PROMPT = 'You are a helpful and polite English assistant.';
 
 let session = null;
 
